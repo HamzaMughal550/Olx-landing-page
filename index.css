@@ -1,0 +1,294 @@
+nav-1 {
+    position: absolute;
+}
+
+.navbar {
+    width: 100%;
+    padding-top: 2px;
+    padding-left: 8%;
+
+}
+
+.link-1 {
+    font-size: 0.8rem;
+    padding-top: 4px;
+    padding-left: 26px;
+}
+
+.ac22b0e1 {
+    margin-right: 2.4rem;
+}
+
+/* navbar-2 */
+.nav-2 {
+    height: 63px;
+    width: 100%;
+    padding-left: 10%;
+    /* position: fixed; */
+}
+
+.search-1 {
+    height: 3.1rem;
+    width: 26%;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 15px;
+
+}
+
+.search-2 {
+    height: 35px;
+    background-color: white;
+    padding: 0.6rem;
+    border: 0px;
+}
+
+.search-3 {
+    height: 3.1rem;
+    width: 42%;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 15px;
+
+}
+
+.search-4 {
+    /* height: 40px; */
+    width: 11%;
+    color: white;
+    background-color: black;
+    padding: 0.7rem;
+    border: 0px;
+}
+
+.search-4 i {
+    font-size: 1.4rem;
+}
+
+.s-1 {
+    border: 0px;
+}
+
+.btn {
+    font-weight: 700;
+    text-decoration: underline;
+    margin-left: 20px;
+}
+
+.sell {
+    margin: -37px 0px 9px 25px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: -0.2px;
+
+}
+
+.sell-1 {
+    margin-top: -5px;
+}
+
+/* nav-2 end
+
+3 is start */
+.nav-3 {
+    border-bottom: 2px solid #f7f8f8;
+    box-shadow: 0px 5px 3px rgba(128, 128, 128, 0.288);
+}
+
+.nav-dropdown {
+    font-weight: 600;
+    list-style: none;
+    letter-spacing: 0.2px;
+}
+
+.nav-item {
+    padding-left: 5px;
+    font-size: 0.89rem;
+}
+
+/* nav-3 end */
+.body-1 {}
+
+.body-1 img {
+    width: 100%;
+}
+
+/* All-categories */
+
+.c-1 h1 {
+    width: 100%;
+    font-size: 1.5rem;
+    font-weight: 650;
+    padding: 10px 0px 10px 0px;
+    margin-left: 32px;
+
+}
+
+.round-box {
+    /* display: flex; */
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-left: 25px;
+    padding-right: 0px
+}
+
+.text {
+    width: 50%;
+    /* margin: 10px;    */
+}
+
+.img img {
+    height: 88px;
+    width: auto;
+    background-position: cover;
+}
+
+.text p {
+    margin-top: .8rem;
+}
+
+/* <!-- card-sec --> */
+.card-heading {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-between;
+    margin: 0px;
+}
+
+.card {
+    border: -0.49px solid black;
+    width: 300px;
+    margin-right: 1px;
+    padding: 0px;
+}
+
+.card-1 {
+    height: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.rs {
+    font-weight: 700;
+}
+
+.card-address {
+    color: #406367;
+    font-size: 0.9rem;
+}
+
+.card-address p {
+    margin-bottom: 1px;
+}
+
+.add-1 {
+    color: #406367;
+    font-size: 0.8rem;
+}
+
+/* <!-- card-sec end --> */
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    background-color: #f7f8f8;
+}
+
+.links {
+    flex: 1;
+    height: 170px;
+    width: auto;
+    margin-left: 32px;
+    padding-left: 20px;
+    border-left: 2px solid grey;
+
+}
+
+.get {
+    font-weight: 600;
+    margin: 30px 0px 12px 0px;
+}
+
+.links img {
+    height: 40px;
+}
+
+/* footer-2 */
+.footer-2 {
+    background-color:#ebeeef;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 0px 54px 0px;
+}
+ul a {
+    display: block;
+    text-decoration: none;
+}
+.footer-2 .heading{
+    font-size: 0.9rem;
+    font-weight: 650;
+    margin: 15px 0px;
+}
+.footer-2 a{
+    font-size: 12px;
+    color:rgba(0,47,52,.64);
+}
+.icons{
+    margin-top: 12px;
+}
+.icons span{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+.icon-1 img{
+    height: 25px;
+    font-size: 1rem;
+}
+
+.icon-img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;    
+    height: 100px;
+}
+.icon-img img{
+    height: 40px;
+    width: 80px;
+    margin-right: 15px;
+  
+}
+
+.last-footer{
+    height: 50px;
+    background-color: #002f34;
+    color:#fff;
+    font-size: 0.7rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  
+}
+.last-footer span{
+    font-size: 0.8rem;
+    font-weight: 700;
+}
+.L-F{
+    
+    justify-content: flex-end;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
